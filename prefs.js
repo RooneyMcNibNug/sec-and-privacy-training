@@ -22,3 +22,4 @@ user_pref("privacy.clearOnShutdown.downloads", true);
 user_pref("privacy.clearOnShutdown.sessions", true);
 user_pref("privacy.clearOnShutdown.history", true);
 user_pref("privacy.clearOnShutdown.formdata", true);
+user_pref("extensions.pocket.enabled", false);
