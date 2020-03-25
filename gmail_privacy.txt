@@ -1,0 +1,36 @@
+## If you must use a gmail account, this can serve as a checklist of privacy settings/configurations to 
+
+- Turn on Two-Factor Authentication (2FA)
+    1. Go to your Google Account.
+    2. On the left navigation panel, click Security.
+    3. On the Signing in to Google panel, click 2-Step Verification.
+    4. Click Get started.
+    5. Follow the steps on the screen.
+
+- Make the following changes in the Data & Personalization section (https://myaccount.google.com/data-and-personalization)
+    1. Turn off/pause all Web & App Activity
+    2. Turn off/pause all Location History
+    3. Turn off/pause all Youtube History
+    4. Turn off Ad Personalization at https://adssettings.google.com/authenticated
+    
+- Change what others can see about you from your profile
+  * Removing Personal info:
+    1. Go to your Google Account.
+    2. On the left, click Personal info.
+    3. Under “Choose what others see,” click Go to About me.
+    
+  * Changing your info:
+    1. Add: For each category you want to add info to, click Add userAdd. 
+    2. Edit: Click the info you’d like to change and then click Edit Edit.
+    3. Remove: Click the info you’d like to remove and then click Remove Delete.
+    4. Follow the on-screen steps.
+    
+  * Choosing what info to show:
+    1. Go to your Google Account.
+    2. On the left, click Personal info.
+    3. Under “Choose what others see”, click Go to About me.
+    4. Below a type of info, you can choose who currently sees your info.
+    5. Choose one of the following:
+        > To make the info private, click Only you (lock icon)
+        > To make the info visible to anyone, click Anyone (people icon)
+
