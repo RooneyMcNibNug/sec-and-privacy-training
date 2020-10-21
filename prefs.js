@@ -26,3 +26,17 @@ user_pref("privacy.clearOnShutdown.formdata", true);
 user_pref("privacy.clearOnShutdown.passwords", true);
 user_pref("browser.privatebrowsing.autostart", true);
 user_pref("extensions.pocket.enabled", false);
+user_pref("geo.provider.use_gpsd", false); // linux
+// user_pref("geo.provider.ms-windows-location", false); // windows
+// user_pref("geo.provider.use_corelocation", false); // macos
+user_pref("toolkit.telemetry.coverage.opt-out", true);
+user_pref("toolkit.coverage.opt-out", true);
+user_pref("toolkit.telemetry.unified", false);
+user_pref("toolkit.telemetry.enabled", false);
+user_pref("toolkit.telemetry.server", "data:,");
+user_pref("toolkit.telemetry.archive.enabled", false);
+user_pref("toolkit.telemetry.newProfilePing.enabled", false);
+user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
+user_pref("toolkit.telemetry.firstShutdownPing.enabled", false);
+user_pref("toolkit.telemetry.updatePing.enabled", false);
+user_pref("toolkit.telemetry.bhrPing.enabled", false); 
