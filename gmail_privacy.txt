@@ -1,4 +1,4 @@
-## If you must use a gmail account, this can serve as a checklist of privacy settings/configurations to 
+## If you must use a gmail account, this can serve as a checklist of privacy settings/configurations to consider:
 
 - Turn on Two-Factor Authentication (2FA)
     1. Go to your Google Account.
