@@ -40,3 +40,6 @@ user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
 user_pref("toolkit.telemetry.firstShutdownPing.enabled", false);
 user_pref("toolkit.telemetry.updatePing.enabled", false);
 user_pref("toolkit.telemetry.bhrPing.enabled", false); 
+user_pref("browser.search.suggest.enabled", false);
+user_pref("browser.search.suggest.enabled.private", false);
+user_pref("browser.urlbar.suggest.searches", false);
