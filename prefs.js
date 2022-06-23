@@ -26,6 +26,7 @@ user_pref("privacy.clearOnShutdown.formdata", true);
 user_pref("privacy.clearOnShutdown.passwords", true);
 user_pref("browser.privatebrowsing.autostart", true);
 user_pref("extensions.pocket.enabled", false);
+user_pref("browser.search.geoip.url", "");
 user_pref("geo.provider.use_gpsd", false); // linux
 // user_pref("geo.provider.ms-windows-location", false); // windows
 // user_pref("geo.provider.use_corelocation", false); // macos
@@ -39,7 +40,17 @@ user_pref("toolkit.telemetry.newProfilePing.enabled", false);
 user_pref("toolkit.telemetry.shutdownPingSender.enabled", false);
 user_pref("toolkit.telemetry.firstShutdownPing.enabled", false);
 user_pref("toolkit.telemetry.updatePing.enabled", false);
-user_pref("toolkit.telemetry.bhrPing.enabled", false); 
+user_pref("toolkit.telemetry.bhrPing.enabled", false);
+user_pref("datareporting.healthreport.uploadEnabled", false);
+user_pref("datareporting.policy.dataSubmissionEnabled", false);
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.suggest.enabled.private", false);
 user_pref("browser.urlbar.suggest.searches", false);
+user_pref("browser.startup.homepage", "about:blank");
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.available", "off");
+user_pref("extensions.formautofill.creditCards.enabled", false);
+user_pref("extensions.formautofill.heuristics.enabled", false);
+user_pref("network.predictor.enable-prefetch", false);
+user_pref("dom.push.userAgentID", "");
+user_pref("browser.shell.shortcutFavicons", false);
